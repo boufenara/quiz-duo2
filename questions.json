@@ -1,5 +1,0 @@
-{
-  "questions": [
-    { "text": "Aimes-tu le café ?", "choices": ["Oui", "Non"], "image": "cafe.JPG" }
-  ]
-}
