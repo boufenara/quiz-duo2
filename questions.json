@@ -1,5 +1,5 @@
 {
   "questions": [
-    { "text": "Aimes-tu le café ?", "choices": ["Oui", "Non"], "image": "images/cafe.jpg" }
+    { "text": "Aimes-tu le café ?", "choices": ["Oui", "Non"], "image": "cafe.JPG" }
   ]
 }
