@@ -1,7 +1,15 @@
 {
   "questions": [
     
-    
+    {
+      "text": "tu préfères baiser :",
+      "choices": [
+        "le soir",
+        "la matinée",
+        "après midi"
+      ],
+      "image": ""
+    },
     
     
     {
