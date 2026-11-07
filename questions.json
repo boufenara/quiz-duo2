@@ -1,208 +1,207 @@
 {
   "questions": [
     
-    {
-      "text": "tu préfères baiser :",
-      "choices": [
-        "le soir",
-        "la matinée",
-        "après midi"
-      ],
-      "image": ""
-    },
     
-    
-    {
-      "text": "Accepterais-tu une soirée échangiste de couple avec un couple choisi?",
-      "choices": [
-        "Oui",
-        "Non",
-        "Uniquement avec des règles précises"
-      ],
-      "image": "a4.jpg"
-    },
-    {
-      "text": "Tu préfères passer une soirée échangiste avec un couple ou bien à trois avec une personne de plus de ton sexe?",
-      "choices": [
-        "à quatre",
-        "à trois"
-      ],
-      "image": ""
-    },
-    {
-      "text": "Tu préfères une double pénétration ou bien baiser avec une seule personne à la fois",
-      "choices": [
-        "Double pénétration",
-        "un(e) à la fois"
-      ],
-      "image": "a20.jpg"
-    },
-    {
-      "text": " tu préfères quoi :",
-      "choices": [
-        "baisé à la forêt",
-        "au travail",
-        "baiser avec un autre couple",
-        "baiser à trois"
-      ],
-      "image": ""
-    },
      {
-      "text": "A-tu envie d'avoir un gangbang (plusieurs personne à la fois)",
-      "choices": [
-        "Oui",
-        "non"
-      ],
-      "image": "a21.jpg"
-    },
-    {
-      "text": "Si t'as envie d'une relation avec un autre couple, est ce que tu voudrais la refaire ou bien avec un autre couple",
-      "choices": [
-        "le même couple",
-        "couple différent",
-        "j'ai pas envie"
-      ],
-      "image": ""
-    },
-    {
-      "text": "Avec une autre personne, tu aurais envie en premier d'avoir :",
-      "choices": [
-        "un baisé",
-        "une félation",
-        "une pénétration",
-        "autre préliminaire",
-        "j'ai pas envie"
-      ],
-      "image": "a22.jpg"
-    },
-    {
-      "text": "Si tu voudrais faire une partie à trois, quel serait votre premier choix :",
-      "choices": [
-        "taille de partie intime(Bite/seins)",
-        "beauté",
-        "corps musclé",
-        "rien"
-      ],
-      "image": ""
-    },
-    {
-      "text": " As-tu déjà rêvé d'une relation sexuelle seule avec une autre personne",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": "a24.jpg"
-    },
-     {
-      "text": " As-tu déjà rêvé d'une relation sexuelle seule avec une autre personne",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-    {
-      "text": " As-tu envie avec votre époux(s) devoir avec une cam un autre couple baisé",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-      {
-      "text": " As-tu envie filmer un porno avec ton epoux(s)e",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-       {
-      "text": "Est ce que les sextoy dans votre relation peuvent la pimenter",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-      {
-      "text": "Est ce que tu veux baiser dehors pour de vrai",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-      {
-      "text": "Si t'es pour un plan à trois, tu voudrais l'avoir avec une personne que tu connais?",
-      "choices": [
-        "oui",
-        "non",
-        "j'ai pas envie"
-        
-      ],
-      "image": ""
-    },
-    {
-      "text": "As tu déjà toucher un sexe d'une autre personne",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-    {
-      "text": "As tu déjà été séduit(e) d'une autre personne devant ton épous(e)",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-     {
-      "text": "As tu déjà été séduit(e) d'une autre personne devant ton épous(e)",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-     {
-      "text": "Est ce que l'anal te procure du plaisir",
-      "choices": [
-        "oui",
-        "non"
-        
-      ],
-      "image": ""
-    },
-     {
-      "text": "Est ce que tu préfères le doit ou la pénétration",
-      "choices": [
-        "Finger",
-        "pénétration"
-        
-      ],
-      "image": ""
-    },
-    {
-      "text": "Est ce que t'as déjà caché un rêve senseuel à ton épous(e)",
-      "choices": [
-        "Finger",
-        "pénétration"
-        
-      ],
-      "image": ""
-    }
+    "text": "Quelle configuration sexuelle te tente le plus ?",
+    "choices": [
+      "Un trio avec deux hommes et une femme",
+      "Un trio avec deux femmes et un homme",
+      "Un échange entre deux couples",
+      "Une expérience à cinq"
+    ],
+    "image": "a61.jpg"
+  },
+  {
+    "text": "Dans un échange de couples, quelle formule préfères-tu ?",
+    "choices": [
+      "Échange complet et simultané",
+      "Échange complet à tour de rôle",
+      "Échange partiel",
+      "Changement libre de partenaires"
+    ],
+    "image": "a62.jpg"
+  },
+  {
+    "text": "Quelle expérience te semble la plus extrême ?",
+    "choices": [
+      "Un trio",
+      "Un plan à quatre",
+      "Une soirée avec trois couples",
+      "Une expérience collective"
+    ],
+    "image": "a63.jpg"
+  },
+  {
+    "text": "Tu préfères que ton/ta partenaire ait combien de partenaires supplémentaires ?",
+    "choices": [
+      "Un seul",
+      "Deux",
+      "Trois",
+      "Aucun nombre fixé à l'avance"
+    ],
+    "image": "a64.jpg"
+  },
+  {
+    "text": "Quelle configuration choisirais-tu pour une soirée à quatre ?",
+    "choices": [
+      "Deux hommes et deux femmes",
+      "Deux couples avec échange complet",
+      "Un couple avec deux partenaires supplémentaires",
+      "Une configuration qui change pendant la soirée"
+    ],
+    "image": "a65.jpg"
+  },
+  {
+    "text": "Quelle situation te tente le plus ?",
+    "choices": [
+      "Ton/ta partenaire avec une autre personne pendant que tu participes",
+      "Ton/ta partenaire avec une autre personne pendant que tu regardes",
+      "Vous participez tous les deux avec une troisième personne",
+      "Vous participez tous les quatre avec changement de partenaires"
+    ],
+    "image": "a66.jpg"
+  },
+  {
+    "text": "Quel type d'échange préfères-tu ?",
+    "choices": [
+      "Échange uniquement des hommes",
+      "Échange uniquement des femmes",
+      "Échange complet des deux couples",
+      "Échange selon les envies de chacun"
+    ],
+    "image": "a67.jpg"
+  },
+  {
+    "text": "Quelle limite serais-tu prêt(e) à repousser ?",
+    "choices": [
+      "Passer du duo au trio",
+      "Passer du trio au quatuor",
+      "Participer à une soirée avec plusieurs couples",
+      "Découvrir une configuration jamais essayée"
+    ],
+    "image": "a68.jpg"
+  },
+  {
+    "text": "Tu préfères une expérience où :",
+    "choices": [
+      "Tu es le seul ou la seule à avoir un partenaire supplémentaire",
+      "Ton/ta partenaire est le/la seul(e) à avoir un partenaire supplémentaire",
+      "Vous avez chacun un partenaire supplémentaire",
+      "Vous changez tous les deux de partenaire"
+    ],
+    "image": "a69.jpg"
+  },
+  {
+    "text": "Quel scénario à quatre choisirais-tu ?",
+    "choices": [
+      "Deux couples dans la même pièce",
+      "Deux couples avec échange complet",
+      "Deux couples avec partenaires alternés",
+      "Deux couples avec changements spontanés"
+    ],
+    "image": "a70.jpg"
+  },
+  {
+    "text": "Combien de personnes au total dans ton fantasme le plus osé ?",
+    "choices": [
+      "Trois",
+      "Quatre",
+      "Cinq",
+      "Six ou plus"
+    ],
+    "image": "a71.jpg"
+  },
+  {
+    "text": "Quelle expérience accepterais-tu de tester en premier ?",
+    "choices": [
+      "Un trio avec ton/ta partenaire et une personne de ton choix",
+      "Un trio avec une personne choisie par ton/ta partenaire",
+      "Un échange complet avec un autre couple",
+      "Une expérience à plusieurs couples"
+    ],
+    "image": "a72.jpg"
+  },
+  {
+    "text": "Dans un trio, quelle configuration préfères-tu ?",
+    "choices": [
+      "Deux hommes et une femme",
+      "Deux femmes et un homme",
+      "Une configuration différente selon les partenaires",
+      "Aucune préférence"
+    ],
+    "image": "a73.jpg"
+  },
+  {
+    "text": "Quelle formule te tente le plus avec un autre couple ?",
+    "choices": [
+      "Échange uniquement avec le partenaire opposé",
+      "Échange croisé",
+      "Participation collective",
+      "Changement libre pendant la rencontre"
+    ],
+    "image": "a74.jpg"
+  },
+  {
+    "text": "Quel rôle préfères-tu dans une expérience à plusieurs ?",
+    "choices": [
+      "Participer activement",
+      "Observer une partie de l'expérience",
+      "Alterner entre participation et observation",
+      "Décider de la configuration"
+    ],
+    "image": "a75.jpg"
+  },
+  {
+    "text": "Quelle expérience te paraît la plus provocatrice ?",
+    "choices": [
+      "Ton/ta partenaire avec deux personnes",
+      "Toi avec deux personnes",
+      "Vous deux avec un autre couple",
+      "Une expérience avec plusieurs partenaires"
+    ],
+    "image": "a76.jpg"
+  },
+  {
+    "text": "Quel niveau d'échangisme choisirais-tu ?",
+    "choices": [
+      "Échange partiel",
+      "Échange complet",
+      "Échange avec plusieurs couples",
+      "Aucune limite de nombre prédéfinie"
+    ],
+    "image": "a77.jpg"
+  },
+  {
+    "text": "Quelle combinaison te tente le plus ?",
+    "choices": [
+      "Un homme supplémentaire",
+      "Une femme supplémentaire",
+      "Deux hommes supplémentaires",
+      "Deux femmes supplémentaires"
+    ],
+    "image": "a78.jpg"
+  },
+  {
+    "text": "Si vous deviez vivre une expérience avec un autre couple, tu choisirais :",
+    "choices": [
+      "Une seule rencontre à quatre",
+      "Plusieurs rencontres avec le même couple",
+      "Une soirée avec plusieurs couples",
+      "Un week-end libertin"
+    ],
+    "image": "a79.jpg"
+  },
+  {
+    "text": "Quel fantasme serait le plus difficile à avouer à ton/ta partenaire ?",
+    "choices": [
+      "Être avec deux personnes simultanément",
+      "Voir mon/ma partenaire avec deux personnes",
+      "Échanger complètement nos partenaires",
+      "Participer à une expérience collective"
+    ],
+    "image": "a80.jpg"
+  }
     
   ]
 }
